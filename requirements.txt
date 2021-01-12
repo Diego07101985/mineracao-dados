@@ -11,3 +11,4 @@ torchvision
 h5py
 seaborn
 missingno
+plotly
